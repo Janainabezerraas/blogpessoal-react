@@ -9,7 +9,7 @@ function Home() {
               Seja bem vindo!</h2>
             <p className="text-xl">Expresse aqui seus sentimentos e opiniões.</p>
 
-            <div className="flex justify-center">
+            <div className="flex justify-around gap-4">
               <div className="rounded text-white border-white border-solid border-2 py-2 px-4">
                 Nova Postagem
               </div>
